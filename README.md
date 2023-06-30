@@ -100,10 +100,9 @@ This will give us an estimate of what costs look like over a year of using the c
 | t2 medium | 1 | 7.80 USD | 33.41 USD | 400.92 USD | 400.92 USD |
 | s3 Bucket | 1 | 0.48 USD | 2.07 USD | 24.84 USD | 24.84 USD |
 | Elastic Load Balancer | 1 | 3.83 USD | 16.43 USD | 197.16 USD | 197.16 USD |
-| 1 | 2 | 3 | 4 | 5 | 6 |
+
 
 For Futher detailed explanation you can check out AWS billing calculator [here](https://calculator.aws/#/)
 
-## <h2> **Stakeholders** </h2>
 ### <h3> **Conclusion** </h3>
 This FinOps documentation provides a framework for managing financial operations within the Capstone (Startup Company) Project. By implementing these guidelines, we aim to optimize cloud costs, improve cost transparency, and align financial and operational objectives. Continuous monitoring, analysis, and optimization will enable us to achieve cost-efficiency while ensuring maximum value from our cloud investments.
