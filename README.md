@@ -69,7 +69,7 @@ Team 23
 ***SREs***: Responsible for the Site Reliability strategy of the infrastructure
 
 1. Abe Boluwatife Christianah
-
+2. 
 
 
 ### <h3> **Cost Savings Plan** </h3>
